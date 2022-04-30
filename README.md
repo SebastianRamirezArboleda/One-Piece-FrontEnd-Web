@@ -6,3 +6,5 @@ Team:
 Sebastian Ramirez:
 Sebastian Aristizabal:
 
+Link to the Template:
+https://w3layouts.com/template/music-buzz-music-category-bootstrap-responsive-web-template/
